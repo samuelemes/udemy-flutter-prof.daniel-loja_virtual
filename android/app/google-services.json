@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366714782757",
+    "firebase_url": "https://lojaflutter-14169.firebaseio.com",
+    "project_id": "lojaflutter-14169",
+    "storage_bucket": "lojaflutter-14169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366714782757:android:7cc4da39482ab05e0e6bcc",
+        "android_client_info": {
+          "package_name": "br.com.samuelemes.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366714782757-efvpt6aq1h6pbb07slg4kkla06m4b27b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5U5C-CxL1BVWruykhdGUsziP2m0UsJD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366714782757-efvpt6aq1h6pbb07slg4kkla06m4b27b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
